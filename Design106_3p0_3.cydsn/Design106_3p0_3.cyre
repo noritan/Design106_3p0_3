@@ -1,0 +1,4 @@
+PowerMonitor_PM_AMux_Voltage_Unset
+PowerMonitor_PM_AMux_Current_Unset
+CyIntSetPriority
+CyIntSetVector
